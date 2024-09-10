@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anamika-codes
 - 👀 I’m interested in Designing
 - 🌱 I’m currently learning Java programming language
-- 📫 How to reach me @gaurabhspringer@gmail.com
+- 📫 How to reach me gaurabhspringer@gmail.com
 - 😄 Pronouns: She/Her
   
 
