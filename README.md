@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Anamika-codes
-- 👀 I’m interested in Designing
-- 🌱 I’m currently learning Java programming language
 - 📫 How to reach me anamikamukh11@gmail.com
 - 😄 Pronouns: She/Her
   
